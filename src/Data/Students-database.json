@@ -1,0 +1,96 @@
+{
+  "All_Students": [
+    {
+      "fname": "Narendra reddy",
+      "lname": "akula",
+      "course": "Graphical design",
+      "Phonenumber": "dwefaw",
+      "Street": "argaer",
+      "city": "arefgaegagva",
+      "id": 1
+    },
+    {
+      "fname": "hareesh ",
+      "lname": "rambha",
+      "course": "java",
+      "id": 2
+    },
+    {
+      "fname": "Rohit ",
+      "lname": "medha ",
+      "course": "front -end ",
+      "Phonenumber": "prasanna",
+      "Street": "ukgyu",
+      "city": "jhv",
+      "id": 3
+    },
+    {
+      "fname": "vamshi",
+      "lname": "savulla",
+      "course": "backend stack",
+      "id": 4
+    },
+    {
+      "fname": "nithin",
+      "lname": "akula",
+      "course": "pythons",
+      "id": 5
+    },
+    {
+      "fname": "madhu",
+      "lname": "mitha",
+      "course": "ux-ui",
+      "id": 6
+    },
+    {
+      "fname": "phanendra",
+      "lname": "bhupathi",
+      "course": "java",
+      "Phonenumber": "876546654",
+      "Street": "mitrivanam,ammerpet",
+      "city": "hyd",
+      "state": "",
+      "id": 8
+    },
+    {
+      "fname": "prasanna",
+      "lname": "khvj",
+      "course": "kjbjkh",
+      "Phonenumber": "kbj",
+      "Street": "kbkv",
+      "city": "cuVJVM",
+      "state": "",
+      "id": 9
+    },
+    {
+      "fname": "JACK",
+      "lname": "prasanna",
+      "course": "UX",
+      "Phonenumber": "3456787",
+      "Street": "34567UYHGF",
+      "city": "ERTYUIUY",
+      "state": "Kerala",
+      "id": 10
+    }
+  ],
+  "java": [],
+  "Greafic-Deasign": [],
+  "Digital-markting": [],
+  "UX-UI": [],
+  "Credentials": [
+    {
+      "name": "m.techmahindrafoundation@gmail.com",
+      "password": "123456",
+      "employeeid": "Emp01",
+      "designation": "manager",
+      "id": 1
+    },
+    {
+      "name": "lalitha78@gmail.com",
+      "password": "Lalitha@34",
+      "employeeid": "Emp009",
+      "designation": "trainer",
+      "id": 2
+    }
+  ]
+}
